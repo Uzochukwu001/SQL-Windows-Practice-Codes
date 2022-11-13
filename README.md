@@ -2,7 +2,7 @@
 
 
 
-/**I used MSSql Server for this query.**/
+I used MSSql Server for this query.
 
 
 /*** ALL RECORDS IN THE SUPERSTORE TABLE ***/
